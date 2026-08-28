@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong>Bogisetty Dhanush Kumar </p>
+    <p><strong>Email ID:</strong> dhanushgautocad@gmail.com </p>
+    <p><strong>College Name:</strong> Sri Venkateswara College Of Engineering </p>
+    <p><strong>Branch/Specialization :</strong> Mechanical Engineering </p>
+    <p><strong>College ID:</strong> 24BFA03L10 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> AutoCAD&Solidworks </p>
+    <p><strong>Instructor Name:</strong>Mr.Mairala Chinnarao </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr.Mairala Chinnarao</p>
+<p><strong>Trainer Email ID:</strong> chinnaraomairala@gmail.com</p>
+<p><strong>Trainer Designation:</strong>Design Engineer</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,30 +63,27 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> _During the course, I learned to create accurate 2D drawings using AutoCAD, including dimensions, annotations, layers, geometric constructions, and mechanical components. I also gained hands-on experience in SolidWorks, where I learned Part Modeling, Assembly Modeling, Drawing, Sheet Metal, Weldments, Surface Modeling, and basic mechanism design.
+
+I worked on different mechanical components and assemblies, which helped me understand the complete design process from concept creation to 3D modeling, assembly, and technical drawing. I also learned how to apply engineering design principles, use standard drawing practices, and improve design accuracy.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong>  Integrated Turbocharger-Assisted Exhaust Energy Recovery System for Electrical Power Generation in a V6 Engine</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1:  Integrated Turbocharger-Assisted Exhaust Energy Recovery System for Electrical Power Generation in a V6 Engine</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  It focused on understanding requirements, creating 3d Modeling, Assembly.The project also involves material selection, engineering calculations, and basic simulation to evaluate the strength, functionality, and feasibility of the proposed system.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
