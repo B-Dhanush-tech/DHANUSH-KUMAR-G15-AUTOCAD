@@ -86,7 +86,7 @@ I worked on different mechanical components and assemblies, which helped me unde
   It focused on understanding requirements, creating 3d Modeling, Assembly.The project also involves material selection, engineering calculations, and basic simulation to evaluate the strength, functionality, and feasibility of the proposed system.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/B-Dhanush-tech/DHANUSH-KUMAR-G15-AUTOCAD/blob/b76b914e5c14619d87a7ffe4965992e658f8a57a/COURSE%20REPORT/PROJECT%20REPORT%201.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -115,6 +115,8 @@ I worked on different mechanical components and assemblies, which helped me unde
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
+- [Science Direct](https://www.sciencedirect.com)
+- [Google Scholar](https://scholar.google.com)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
@@ -122,24 +124,31 @@ I worked on different mechanical components and assemblies, which helped me unde
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+>The LST and SST sessions were very useful and informative. The sessions helped me improve my communication skills, confidence, teamwork, and problem-solving abilities. I learned how to express my ideas clearly, participate actively in discussions, and handle different situations effectively.
+
+The activities and discussions during the sessions gave me practical experience and helped me understand the importance of soft skills in both academic and professional life. Overall, the LST and SST sessions were a valuable learning experience for me.
+
 ---
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities .....As part of community service activities, I participated in **blood donation, tree plantation, and helping senior citizens**. These activities helped me understand the importance of social responsibility and caring for the community.
+
+Through **blood donation**, I learned the value of helping people in need. **Tree plantation** helped me understand the importance of protecting the environment and maintaining a greener society. By **helping senior citizens**, I learned to respect, support, and care for elderly people.
+
+Overall, these community service activities improved my teamwork, responsibility, kindness, and social awareness. It was a meaningful and valuable experience for me.
+
 
 ### **Activities Involved**
-<!-- add the location where you given -->
+Tirupathi
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+Tirupathi
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+Tirupathi
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
@@ -150,6 +159,7 @@ During my internship period, I participated in multiple community-oriented activ
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
+- Provided support, care, and companionship to elderly
 
 ### **Photos**
 
