@@ -196,4 +196,5 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Mr.Mairala Chinnarao](https://www.linkedin.com/in/nameischinnarao?utm_source=share_via&utm_content=profile&utm_medium=member_android) , Design Engineer
 
